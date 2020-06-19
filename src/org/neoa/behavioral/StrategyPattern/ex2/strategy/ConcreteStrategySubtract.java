@@ -1,4 +1,4 @@
-package org.neoa.behavioral.Strategy.ex2;
+package org.neoa.behavioral.StrategyPattern.ex2.strategy;
 
 public class ConcreteStrategySubtract implements Strategy {
 

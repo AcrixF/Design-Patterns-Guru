@@ -1,4 +1,6 @@
-package org.neoa.behavioral.Strategy.ex2;
+package org.neoa.behavioral.StrategyPattern.ex2.model;
+
+import org.neoa.behavioral.StrategyPattern.ex2.strategy.Strategy;
 
 public class Context {
 

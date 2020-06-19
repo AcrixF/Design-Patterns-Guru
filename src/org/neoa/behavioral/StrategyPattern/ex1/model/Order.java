@@ -1,6 +1,6 @@
-package org.neoa.behavioral.Strategy.ex1.model;
+package org.neoa.behavioral.StrategyPattern.ex1.model;
 
-import org.neoa.behavioral.Strategy.ex1.strategy.PayStrategy;
+import org.neoa.behavioral.StrategyPattern.ex1.strategy.PayStrategy;
 
 public class Order {
 

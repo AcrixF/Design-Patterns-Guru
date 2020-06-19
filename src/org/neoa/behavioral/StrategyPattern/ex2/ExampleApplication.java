@@ -1,4 +1,9 @@
-package org.neoa.behavioral.Strategy.ex2;
+package org.neoa.behavioral.StrategyPattern.ex2;
+
+import org.neoa.behavioral.StrategyPattern.ex2.model.Context;
+import org.neoa.behavioral.StrategyPattern.ex2.strategy.ConcreteStrategyAdd;
+import org.neoa.behavioral.StrategyPattern.ex2.strategy.ConcreteStrategyMultiply;
+import org.neoa.behavioral.StrategyPattern.ex2.strategy.ConcreteStrategySubtract;
 
 public class ExampleApplication {
 
