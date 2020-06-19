@@ -1,6 +1,6 @@
-package org.neoa.behavioral.Strategy.strategy;
+package org.neoa.behavioral.Strategy.ex1.strategy;
 
-import org.neoa.behavioral.Strategy.model.CreditCard;
+import org.neoa.behavioral.Strategy.ex1.model.CreditCard;
 
 import java.io.BufferedReader;
 import java.io.IOException;

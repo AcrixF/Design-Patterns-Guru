@@ -1,4 +1,4 @@
-package org.neoa.behavioral.Strategy.strategy;
+package org.neoa.behavioral.Strategy.ex1.strategy;
 
 import java.io.BufferedReader;
 import java.io.IOException;

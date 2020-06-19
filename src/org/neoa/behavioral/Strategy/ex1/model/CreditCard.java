@@ -1,4 +1,4 @@
-package org.neoa.behavioral.Strategy.model;
+package org.neoa.behavioral.Strategy.ex1.model;
 
 public class CreditCard {
 

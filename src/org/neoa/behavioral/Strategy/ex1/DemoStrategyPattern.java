@@ -1,9 +1,9 @@
-package org.neoa.behavioral.Strategy;
+package org.neoa.behavioral.Strategy.ex1;
 
-import org.neoa.behavioral.Strategy.model.Order;
-import org.neoa.behavioral.Strategy.strategy.PayByCreditCard;
-import org.neoa.behavioral.Strategy.strategy.PayByPayPal;
-import org.neoa.behavioral.Strategy.strategy.PayStrategy;
+import org.neoa.behavioral.Strategy.ex1.model.Order;
+import org.neoa.behavioral.Strategy.ex1.strategy.PayByCreditCard;
+import org.neoa.behavioral.Strategy.ex1.strategy.PayByPayPal;
+import org.neoa.behavioral.Strategy.ex1.strategy.PayStrategy;
 
 import java.io.BufferedReader;
 import java.io.IOException;
